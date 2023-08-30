@@ -1,4 +1,4 @@
-# Stream CSharp Kafka - MongoDB 
+# Stream CSharp Kafka - MongoDB  
 
 Codificação em Csharp de aplicação ASP.NET Core completa para Endpoints com Swagger para testar e que utiliza o MongoDB como banco de dados e o Kafka para envio e recebimento de mensagens. A aplicação é conteinerizada usando Docker.
 
