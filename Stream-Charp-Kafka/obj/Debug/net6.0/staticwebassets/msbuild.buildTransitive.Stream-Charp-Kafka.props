@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Stream-Charp-Kafka.props" />
+</Project>

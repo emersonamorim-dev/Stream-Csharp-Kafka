@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JabMEGh1IC0S0MSl8XkxUic3SMIW8OX8NwkxYS7enqQ=",
+  "Source": "Stream-Csharp-Kafka",
+  "BasePath": "_content/Stream-Csharp-Kafka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
